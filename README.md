@@ -9,4 +9,4 @@
 #### How to build this container locally
 
 	sudo docker build -t="rails" .
-
+	sudo docker run -i -t rails /bin/bash
